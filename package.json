@@ -1,5 +1,6 @@
 {
-  "version": "1.0.101",
+  "version": "0.2",
+  "description": "a simple server for EnvayaSMS App, using bunjs and hono",
   "name": "hono",
   "main": "scr/index.ts",
   "devDependencies": {
